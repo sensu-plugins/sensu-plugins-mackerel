@@ -1,1 +1,1 @@
-require 'sensu-plugins-hubot/version'
+require 'sensu-plugins-mackerel/version'
