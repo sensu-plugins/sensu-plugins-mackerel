@@ -1,6 +1,6 @@
 ## Sensu-Plugins-mackerel
 
-[![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-mackerel.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-mackerel)
+[ ![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-mackerel.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-mackerel)
 [![Gem Version](https://badge.fury.io/rb/sensu-plugins-mackerel.svg)](http://badge.fury.io/rb/sensu-plugins-mackerel)
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-mackerel/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-mackerel)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-mackerel/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-mackerel)
