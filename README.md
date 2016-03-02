@@ -5,7 +5,6 @@
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-mackerel/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-mackerel)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-mackerel/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-mackerel)
 [![Dependency Status](https://gemnasium.com/sensu-plugins/sensu-plugins-mackerel.svg)](https://gemnasium.com/sensu-plugins/sensu-plugins-mackerel)
-[ ![Codeship Status for sensu-plugins/sensu-plugins-mackerel](https://codeship.com/projects/f4aa6aa0-edb3-0132-0ba1-1efd3f886df2/status?branch=master)](https://codeship.com/projects/84072)
 
 ## Functionality
 
